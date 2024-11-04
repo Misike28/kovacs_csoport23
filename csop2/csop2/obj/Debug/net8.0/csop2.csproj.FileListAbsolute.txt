@@ -1,0 +1,14 @@
+C:\Users\kovacs.mihaly\source\repos\csop2\csop2\bin\Debug\net8.0\csop2.exe
+C:\Users\kovacs.mihaly\source\repos\csop2\csop2\bin\Debug\net8.0\csop2.deps.json
+C:\Users\kovacs.mihaly\source\repos\csop2\csop2\bin\Debug\net8.0\csop2.runtimeconfig.json
+C:\Users\kovacs.mihaly\source\repos\csop2\csop2\bin\Debug\net8.0\csop2.dll
+C:\Users\kovacs.mihaly\source\repos\csop2\csop2\bin\Debug\net8.0\csop2.pdb
+C:\Users\kovacs.mihaly\source\repos\csop2\csop2\obj\Debug\net8.0\csop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kovacs.mihaly\source\repos\csop2\csop2\obj\Debug\net8.0\csop2.AssemblyInfoInputs.cache
+C:\Users\kovacs.mihaly\source\repos\csop2\csop2\obj\Debug\net8.0\csop2.AssemblyInfo.cs
+C:\Users\kovacs.mihaly\source\repos\csop2\csop2\obj\Debug\net8.0\csop2.csproj.CoreCompileInputs.cache
+C:\Users\kovacs.mihaly\source\repos\csop2\csop2\obj\Debug\net8.0\csop2.dll
+C:\Users\kovacs.mihaly\source\repos\csop2\csop2\obj\Debug\net8.0\refint\csop2.dll
+C:\Users\kovacs.mihaly\source\repos\csop2\csop2\obj\Debug\net8.0\csop2.pdb
+C:\Users\kovacs.mihaly\source\repos\csop2\csop2\obj\Debug\net8.0\csop2.genruntimeconfig.cache
+C:\Users\kovacs.mihaly\source\repos\csop2\csop2\obj\Debug\net8.0\ref\csop2.dll
